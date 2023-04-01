@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Heristore'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://heri123:h3rihydrus@cluster0.c8zplch.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "kurniawanheri200@gmail.com" //email
 global.email_password = "h3rihydrus" //application password email
